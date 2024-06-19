@@ -1,0 +1,81 @@
+
+.navbar{
+    background-color: #24353F;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    
+}
+.navbar a:hover
+{
+    color: white;
+
+}
+.btn a{
+     color: grey;
+
+}
+.btn a:hover
+{
+    background-color:rgb(16, 174, 236) ;
+}
+#home h1{
+    color: #17A2B8;
+}
+
+
+/* *************************************************** sign up */
+
+body
+{
+    background-color: #24353F;
+}
+.up h1{
+    color: #17A2B8;
+    font-size: 40px;
+    font-weight: 500;
+}
+.bg{
+    background-color: #24353F;
+    border: solid  white 1px;
+}
+.b
+{
+    border: #17A2B8 1px solid;
+    color: #17A2B8;
+}
+.b:hover{
+    background-color: #17A2B8;
+    color: white;
+}
+.up p{
+    color: white;
+}
+.up a{
+    color: white;
+    text-decoration: none;
+    position: relative;
+}
+
+.alert
+{
+    padding: 0;
+    margin: 0;
+    
+    text-align: left;
+}
+.alertname
+{
+    padding: 0;
+    margin: 0;
+    
+    text-align: left;
+}
+.alertemail
+{
+    padding: 0;
+    margin: 0;
+    
+    text-align: left;
+}
